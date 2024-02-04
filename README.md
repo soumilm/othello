@@ -4,4 +4,4 @@ This repository houses miscellaneous code being used to count the number of poss
 
 ## Setup
 
-To run any code in this repository, please [install go](https://go.dev/doc/install). You will also need to install python to run the visualization modules (either [from their website](https://www.python.org/downloads/) or from a package manager).
+To run any code in this repository, please [install go](https://go.dev/doc/install): you will need at least version 1.18. You will also need to install python to run the visualization modules (either [from their website](https://www.python.org/downloads/) or from a package manager).
